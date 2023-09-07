@@ -3,10 +3,10 @@
 <br>
 <br>
 <a href="https://www.linkedin.com/in/yumitokuo/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/yumi-tokuo">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
 <br />
@@ -19,7 +19,7 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
-<img align="right" alt="jpg" width="250px" src="https://i.gifer.com/origin/39/39f78ed05b58bd9fa3962034d7907c07_w200.gif" />
+<img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/3e/5c/53/3e5c53781e906ac48a73ff4b85860368.gif" />
 
 **Talking about Personal Stuffs:**
 
