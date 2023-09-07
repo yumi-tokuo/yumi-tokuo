@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yumi</h1>
-<h3 align="center">A Cloud Computing student from Brazil</h3>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/yumitokuo/">
@@ -19,14 +18,14 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
-<img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/3e/5c/53/3e5c53781e906ac48a73ff4b85860368.gif" />
+<img align="right" alt="jpg" width="250px" src="https://i.gifer.com/origin/39/39f78ed05b58bd9fa3962034d7907c07_w200.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 👨‍🏛 I am currently a student of **FIAP**.
-- 💻 Major is **Computer Science and Technology**.
-- 🌱 I'm currently learning **Web development and English**. 
-- 🤔 My hobbies are **playing chess and running**.
+- 💻 Major is **Cloud Computing**.
+- 🌱 I'm currently learning **DevOps, CI/CD**. 
+- 🤔 My hobbies are **drawing and playing volleyball**.
 
 
 
@@ -40,6 +39,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/pycharm.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
+<br>
 <img align="right"  src="https://github-readme-stats.vercel.app/api?username=yumi-tokuo&count_private=true&show_icons=true" alt="Yumi" />
 
 **Technology being learned**
