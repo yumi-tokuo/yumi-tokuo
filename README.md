@@ -28,7 +28,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&sshow_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yumi-tokuoshow_icons=true&theme=transparent)&nbsp; <img align="right" alt="jpg" width="200px" src="https://media4.giphy.com/media/HxXcqZKviRUsXqrSeu/giphy.gif?cid=6c09b952ipb91ahy5vrj27hm31t278jfpuvrwq6v7ok0kscx&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&sshow_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yumi-tokuoshow_icons=true&theme=transparent)&nbsp; <img align="right" alt="jpg" width="200px" src="https://i.pinimg.com/originals/79/f7/97/79f7973b104b862de7a8efb527526ec8.gif" />
 
 
 #### 📫 How to reach me:
