@@ -1,25 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yumi!</h1>
 
-- I am a **Programming rookie** 
-- I like to use a variety of useful **computer software** and build  **beautiful blog.**
-- I also like **literature, reading and writing.** 
-- I used to dream of being a writer.But **the reality made me have to learn a technology💻,**
-- and I also came into contact with **programming**.
-- Although I was **not interested** in it at the beginning,
-- **luckily I slowly fell in love with it. ❤️**
+- I am currently a student of **FIAP** University 
+- Major is **Cloud Computing**.
+- Computer Technician graduated from the Federal Institute of São Paulo **(IFSP)**
+- I used to dream of being a web designer. But now I'm challenging myself in the **devops world 💻** 
 
-
-
-**Talking about Personal Stuffs:**
-
-- 👨‍🏛 I am currently a student of **FIAP**.
-- 💻 Major is **Cloud Computing**.
-- 🌱 I'm currently learning **DevOps, CI/CD**. 
-- 🤔 My hobbies are **drawing and playing volleyball**.
-
-
-
-**Languages and Tools:**  
+**currently working on**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg"></code>
@@ -34,7 +20,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&sshow_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yumi-tokuoshow_icons=true&theme=transparent)&nbsp; <img align="right" alt="jpg" width="200px" src="https://i.gifer.com/origin/39/39f78ed05b58bd9fa3962034d7907c07_w200.gif" />
 
 
-**Technology being learned**
+**Currently learning**
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linux.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
