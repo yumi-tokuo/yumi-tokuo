@@ -28,10 +28,10 @@
 #### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/yumitokuo/">
-  <img align="center" alt="Linkedin" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+  <img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
 <a href="https://github.com/yumi-tokuo">
-  <img align="center" alt="Github" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
 </a>
 <br />
 <br />
