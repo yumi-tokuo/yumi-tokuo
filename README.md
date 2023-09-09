@@ -1,14 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yumi</h1>
+<h1 align="center">Hi 👋, I'm Yumi!</h1>
 <br>
 <br>
-<a href="https://www.linkedin.com/in/yumitokuo/">
-  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/yumi-tokuo">
-  <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br />
-<br />
 
 - I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
@@ -52,3 +44,15 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
+
+
+#### 📫 How to reach me:
+
+<a href="https://www.linkedin.com/in/yumitokuo/">
+  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/yumi-tokuo">
+  <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br />
+<br />
