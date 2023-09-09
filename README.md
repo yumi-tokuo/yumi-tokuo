@@ -5,6 +5,7 @@
 - Computer Technician graduated from the Federal Institute of São Paulo **(IFSP)**
 - I used to dream of being a web designer. But now I'm challenging myself in the **devops world 💻** 
 <br>
+
 **currently working on**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg"></code>
@@ -17,9 +18,10 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <br>
 <br>
+
 **Currently learning**
 
-<code><img height="25" src="https://icons8.com.br/icon/17842/linux"></code>
+<code><img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
 <code><img height="25" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
