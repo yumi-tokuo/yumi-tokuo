@@ -28,7 +28,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&sshow_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yumi-tokuoshow_icons=true&theme=transparent)&nbsp; <img align="right" alt="jpg" width="200px" src="https://www.animatedimages.org/data/media/218/animated-penguin-image-0164.gif" />
+[![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&sshow_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yumi-tokuoshow_icons=true&theme=transparent)&nbsp; <img align="right" alt="jpg" width="200px" src="https://i.pinimg.com/originals/34/fa/7e/34fa7eee345476a2541ba9c9f1156faf.gif" />
 
 
 #### 📫 How to reach me:
