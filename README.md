@@ -4,7 +4,7 @@
 - I am currently a student of **FIAP** University 
 - Major is **Cloud Computing**.
 - Computer Technician graduated from the Federal Institute of São Paulo **(IFSP)**
-- I used to dream of being a web designer. But now I'm challenging myself in the **devops world 💻** 
+- I used to dream of being a web designer. But now I'm challenging myself in the **DevOps World 💻** 
 
 <br>
 <br>
@@ -19,7 +19,7 @@
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/jira.png" alt="jira"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></code>
-<code><img width="60" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BMC_Software_logo_%282014%29.svg/1280px-BMC_Software_logo_%282014%29.svg.png" alt="figma--v1"/></code>
+<code><img width="66" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BMC_Software_logo_%282014%29.svg/1280px-BMC_Software_logo_%282014%29.svg.png" alt="figma--v1"/></code>
 <br>
 <br>
 
