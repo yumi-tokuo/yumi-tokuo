@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yumi!</h1>
-<br>
-<br>
 
 - I am a **Programming rookie** 
 - I like to use a variety of useful **computer software** and build  **beautiful blog.**
@@ -32,7 +30,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <br>
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=yumi-tokuo&count_private=true&show_icons=true" alt="Yumi" />
+
+![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayumi-tokuo&show_icons=true&theme=transparent)
 
 **Technology being learned**
 
