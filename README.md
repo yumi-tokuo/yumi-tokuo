@@ -8,7 +8,7 @@
 - Although I was **not interested** in it at the beginning,
 - **luckily I slowly fell in love with it. ❤️**
 
-<img align="right" alt="jpg" width="250px" src="https://i.gifer.com/origin/39/39f78ed05b58bd9fa3962034d7907c07_w200.gif" />
+
 
 **Talking about Personal Stuffs:**
 
@@ -31,7 +31,8 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mysql.svg"></code>
 <br>
 
-![Yumi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayumi-tokuo&show_icons=true&theme=transparent)
+[![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; <img align="right" alt="jpg" width="250px" src="https://i.gifer.com/origin/39/39f78ed05b58bd9fa3962034d7907c07_w200.gif" />
+
 
 **Technology being learned**
 
