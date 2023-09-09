@@ -18,17 +18,9 @@
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/jira.png" alt="jira"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></code>
-<code><img width="40" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BMC_Software_logo_%282014%29.svg/1280px-BMC_Software_logo_%282014%29.svg.png" alt="figma--v1"/></code>
+<code><img width="50" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/BMC_Software_logo_%282014%29.svg/1280px-BMC_Software_logo_%282014%29.svg.png" alt="figma--v1"/></code>
 <br>
 <br>
-
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vim.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/django.svg"></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jquery.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg"></code>
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&sshow_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yumi-tokuoshow_icons=true&theme=transparent)&nbsp; <img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/c0/44/59/c0445925ae3bb1a622dd2b95b96e9442.gif" />
 
