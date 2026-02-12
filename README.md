@@ -21,7 +21,7 @@
 <br>
 <br>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=yumi-tokuo&sshow_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api?username=yumi-tokuoshow_icons=true&theme=transparent)&nbsp; <img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/c0/44/59/c0445925ae3bb1a622dd2b95b96e9442.gif" />
+<img align="right" alt="jpg" width="250px" src="https://i.pinimg.com/originals/c0/44/59/c0445925ae3bb1a622dd2b95b96e9442.gif" />
 
 
 #### 📫 How to reach me:
