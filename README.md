@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yumi!</h1>
+<h1 align="center">Hello 👋, I'm Yumi!</h1>
 <br>
 
-- I am currently a student of **FIAP** University 
-- Major is **Cloud Computing**.
-- Computer Technician graduated from the Federal Institute of São Paulo **(IFSP)**
-- I used to dream of being a web designer. But now I'm challenging myself in the **DevOps World 💻** 
+- Graduated in **Cloud Computing** from FIAP.
+- Certified Computer Technician from the Federal Institute of São Paulo (IFSP).
+- I used to dream of being a web designer, but now I’m challenging myself in the **DevOps world 💻** 
 
 <br>
 <br>
@@ -15,7 +14,6 @@
 <code><img width="40" height="40" src="https://img.icons8.com/fluency/48/html-5.png" alt="html-5"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/css3.png" alt="css3"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure-1"/></code>
-<code><img width="40" height="40" src="https://img.icons8.com/color/48/oracle-logo.png" alt="oracle-logo"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/jira.png" alt="jira"/></code>
 <code><img width="40" height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/></code>
